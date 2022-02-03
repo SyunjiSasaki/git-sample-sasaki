@@ -1,5 +1,9 @@
 public class Car(){
+<<<<<<< HEAD
 	private int speed = 200;
+=======
+	private int speed = 100;
+>>>>>>> develop
 	private int gasoline
 	private String name;
 	private String color;	
